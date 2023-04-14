@@ -1,0 +1,5 @@
+Die Instanzmethoden können innerhalb einer Instanzmethode aus der gleichen Klasse aufgerufen werden, ohne ein Instanz erzeugt zu werden.
+Die Instanzmethoden können innerhalb einer Klassenmethode  aus der gleichen Klasse ohne Erzeugung einer Instanz nicht aufgerufen werden.
+Die Instanzmethoden können innerhalb einer Instanzmethode oder einer Klassenmethode aus der anderen Klassen aufgerufen werden, wenn sie an einem aus ihrer Klasse stammenden Objekt aufgerufen werden.
+Die Klassenmethoden können innerhalb einer Instanzmethode und einer Klassenmethode in der gleichen Klasse aufgerufen werden.
+Die KLassenmethoden können innerhalb einer Instanzmethode und einer KLassenmethoden aus der anderen Klasse aufgerufen werden, wenn ihnen ihre Klassenname getrennt mit einem Punkt vorangestellt wird.
